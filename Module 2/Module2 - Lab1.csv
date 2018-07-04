@@ -1,0 +1,8 @@
+﻿Feature Name,Type,Class,Description
+Goals,Numeric,Continuous,Number of Goals in a Calendar Year
+Assists,Numeric,Continuous,Number of Assists in a Calendar Year
+Chances created,Numeric,Continuous,Chances created
+Duels won,Numeric,Continuous,one vs one won
+First name,Textual,Nominal,Legal first name
+Last name,Textual,Nominal,Legal last name
+Skills,Textual,Ordinal,"Low, Medium, High"
